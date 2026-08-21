@@ -34,5 +34,5 @@ Sou um aspirante a programador! Meu sonho desde cedo foi estar por trás das lin
 
 ## Contate-me:
 
-<h3><a href='https://www.instagram.com/azrael_1404/'><img width="30" alt="Instagram" src="https://github.com/user-attachments/assets/005071c7-bffc-4718-9b14-5ae5041ce67e"/>  Instagram<h3/><a/> 
-<h3><a href='https://www.linkedin.com/in/miguel-costa-5844953b9/'><img width="30" alt="LinkedIn" src="https://github.com/user-attachments/assets/ddca2e1a-af36-4c54-9232-ac0a13acbe0e"/>  LinkedIn<h3/><a/>
+<h3><a href='https://www.instagram.com/azrael_1404/'><img width="30" alt="Instagram" src="https://github.com/user-attachments/assets/da43f0f7-53b5-4b9e-a06f-9120cc39cdc9"/>  Instagram<h3/><a/>
+<h3><a href='https://www.linkedin.com/in/miguel-costa-5844953b9/'><img width="30" alt="LinkedIn" src="https://github.com/user-attachments/assets/9ada8923-5341-4727-9489-b2f8f1031b51"/>  LinkedIn<h3/><a/>
