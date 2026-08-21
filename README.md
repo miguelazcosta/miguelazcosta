@@ -12,9 +12,11 @@ Sou um aspirante a programador! Meu sonho desde cedo foi estar por trás das lin
 
 ## Aprendizado:
 <ul>
-  Ensino Médio - Completo <br>
-  Ensino Superior - Em um futuro próximo 
-
+  ✔️Ensino Fundamental <br>
+  ✔️Ensino Médio <br>
+  Ensino Superior (Em um futuro próximo) 
+  <br>
+  <br>
   Curso de Python em video (Gustavo Guanabara) <br>
   Inglês Escrita e Fala - Avançado <br>
   Espanhol Escrita e Fala - Básico
